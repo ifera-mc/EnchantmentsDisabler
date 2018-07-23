@@ -2,7 +2,6 @@
 namespace MC\PE;
 use pocketmine\utils\config;
 use pocketmine\plugin\PluginBase;
-use pocketmine\event\Listener;
 
 /**
  * S a i n i 1 4
