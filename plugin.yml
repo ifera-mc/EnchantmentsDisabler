@@ -1,0 +1,7 @@
+name: Enchant Disabler
+api: 3.1.1
+version: 1.0.0
+main: MC\PE\Main
+author: Saiini14 TV
+load: POSTWORLD
+soft-depend: [PiggyCustomEnchants]
