@@ -1,7 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Saini14/Enchantments-Disabler
-branches:
-- master
-projects:
-  Enchantments-Disabler:
-    path: ""
-...
